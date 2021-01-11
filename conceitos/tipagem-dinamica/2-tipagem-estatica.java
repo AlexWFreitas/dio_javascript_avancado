@@ -1,4 +1,4 @@
-// Código comentado porque o editor não suporta os erros que ele contém.
+// Code was commented because of ugly colors on Visual Studio Code, code has errors.
 
 // public class TipagemEstatica {
 //     public static void main(String[] args){
